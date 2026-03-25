@@ -1,1 +1,2 @@
 nightly-root-admin.pkg filter=lfs diff=lfs merge=lfs -text
+nightly-root-admin.pkg.tar.gz filter=lfs diff=lfs merge=lfs -text
